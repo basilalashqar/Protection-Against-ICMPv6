@@ -71,7 +71,7 @@ This repository contains the research, code, and final report for the project on
 
 ## Final Report
 
-The full research report, detailing the methodology, implementation, and evaluation, is available in the `report` folder. It covers:
+The full research report, detailing the methodology, implementation, and evaluation, is available as a pdf file `In-network Detection of ICMPv6 DDoS Attacks.pdf`. It covers:
 - ICMPv6 NDP attacks background
 - Defense mechanism design using P4
 - Experiment results and evaluation
