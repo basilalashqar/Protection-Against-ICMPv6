@@ -33,7 +33,7 @@ This repository contains the research, code, and final report for the project on
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/basilalashqar/Protection-Against-ICMPv6
     ```
 
 2. Install the dependencies:
